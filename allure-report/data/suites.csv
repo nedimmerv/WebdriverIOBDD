@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 17 00:47:26 CET 2023","Sun Dec 17 00:47:29 CET 2023","2250","","User should search on Google Search Engine: Google Search","","","","When User  enters ""iphone"" on search",""
+"passed","Sun Dec 17 00:47:29 CET 2023","Sun Dec 17 00:47:29 CET 2023","2","","User should search on Google Search Engine: Google Search","","","","",""
+"passed","Sun Dec 17 00:47:29 CET 2023","Sun Dec 17 00:47:29 CET 2023","2","","User should search on Google Search Engine: Google Search","","","","Then User is able to see results",""
+"passed","Sun Dec 17 00:47:25 CET 2023","Sun Dec 17 00:47:26 CET 2023","1248","","User should search on Google Search Engine: Google Search","","","","Given User navigates to url",""

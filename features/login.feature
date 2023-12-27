@@ -10,3 +10,4 @@ Feature: The Internet Guinea Pig Website
       | username | password             | message                        |
       | tomsmith | SuperSecretPassword! | You logged into a secure area! |
       | foobar   | barfoo               | Your username is invalid!      |
+      | merv     | test123              | Your username is NOT invalid!  |
